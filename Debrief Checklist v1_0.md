@@ -66,13 +66,13 @@
   - [ ] Zero-in on Root Cause (RC)
   - [ ] Develop Instructional Fix (IF)
   - [ ] Summarize Lessons Learned (LL)
-- [ ] Post Debrief
-  - [ ] Intel 
-    - [ ] New vulnerabilities
-    - [ ] Share CTI
-    - [ ] Future Business Development
-  - [ ] Individual Debrief
-    - [ ] Trainees Critique, Evaluation, Debrief
+## 6. Post Debrief
+- [ ] Intel 
+  - [ ] New vulnerabilities
+  - [ ] Share CTI
+  - [ ] Future Business Development
+- [ ] Individual Debrief
+  - [ ] Trainees Critique, Evaluation, Debrief
 - [ ] Paperwork
   - [ ] Client Follow-up
   - [ ] Travel Expenses Reimbursement

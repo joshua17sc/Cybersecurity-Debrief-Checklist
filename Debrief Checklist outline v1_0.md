@@ -1,25 +1,29 @@
 *Debrief is a 5-step process beginning in planning and ending with a formal briefing. Steps 3-5 occur after the engagement.*
 
-<details>
+<details open>
   <summary> 1. Preparation</summary>
 
 - Collect data
 
-- Notes
-  - Check ins
- - Scan results
- - Reports
- - Scoping docs
+  - Notes
+    - Check ins
+  - Scan results
+  - Logs
+  - Reports
+  - Scoping docs
+  - Gant charts
+  - Kanban
+  - Etc
  - Reconstruction
 </details>
-<details>
+<details open>
   <summary>2. Analysis</summary>
 
 - DFPs and LPs, as required
 
 - Set Timeline
 </details>
-<details>
+<details open>
 <summary>3. Presentation</summary>
 
 - Engagement overview
@@ -47,7 +51,7 @@
   - External
   - With client
 </details>
-<details>
+<details open>
 <summary>4.
 Significant events</summary>
 
@@ -65,7 +69,7 @@ Significant events</summary>
   - External 
   - Organization
 </details>
-<details>
+<details open>
 	<summary>5. Engagement execution </summary>
 
 - Threat/Error Management
@@ -81,13 +85,16 @@ Significant events</summary>
   - Zero-in on Root Cause (RC)
   - Develop Instructional Fix (IF)
   - Summarize Lessons Learned (LL)
-- Post Debrief
-  - Intel 
-    - New vulnerabilities
-    - Share CTI
-    - Future Business Development
-  - Individual Debrief
-    - Trainees Critique, Evaluation, Debrief
+</details>
+<details open>
+	<summary>6. Post Debrief</summary>
+
+- Intel 
+  - New vulnerabilities
+  - Share CTI
+  - Future Business Development
+- Individual Debrief
+  - Trainees Critique, Evaluation, Debrief
 - Paperwork
   - Client Follow-up
   - Travel Expenses Reimbursement
