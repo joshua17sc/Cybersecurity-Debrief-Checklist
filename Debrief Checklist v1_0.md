@@ -13,7 +13,7 @@
 
 - [ ] DFPs and LPs, as required
 - [ ] Set Timeline
-## 3. Presentation
+## 3. Administration
 
 - [ ] Engagement overview
 
